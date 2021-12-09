@@ -1,4 +1,4 @@
-# Data_Science
+# Heart Stroke Prediction
 Projrct helps in prediction of Heart Stroke by training and testing Machine learning Models By providing dataset to the Machine learing algorithm
 <br />
 Database has been provided by Kaggle.com
